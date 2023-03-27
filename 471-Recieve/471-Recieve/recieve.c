@@ -12,7 +12,7 @@
 
 void create_and_bind_server_socket();
 void server_receive_data(SOCKET s);
-
+//Issa sucks balls
 int main() {
 	init_winsock();
 	create_and_bind_server_socket();
