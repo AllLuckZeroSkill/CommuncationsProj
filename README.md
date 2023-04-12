@@ -1,4 +1,4 @@
-*** BEFORE STARTING THE PROJECT MAKE SURE TO CONSIDER THESE PRECONDITIONS ***
+*** BEFORE STARTING THE PROJECT IN VISUAL STUDIOS MAKE SURE TO CONSIDER THESE PRECONDITIONS ***
 
 
 If you get this error: Error	LNK2019	unresolved external symbol __imp__WSAStartup@8 referenced in function _init_winsock	
